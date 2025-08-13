@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import AdminLayout from '../../Components/AdminLayout/adminLayout'
 import axios from 'axios'
 import { BASE_URL } from '../../../Utils'
 import Cookies from 'js-cookie'
