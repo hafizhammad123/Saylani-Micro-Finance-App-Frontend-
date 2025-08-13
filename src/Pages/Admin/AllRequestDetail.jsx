@@ -7,7 +7,7 @@ import {
     Button,
     Grid,
 } from "@mui/material";
-import AdminLayout from "../../Components/AdminLayout/adminLayout";
+import AdminLayout from "../../Components/AdminLayout/AdminLayout";
 import { useParams } from "react-router-dom";
 import Cookies from "js-cookie";
 import axios from "axios";

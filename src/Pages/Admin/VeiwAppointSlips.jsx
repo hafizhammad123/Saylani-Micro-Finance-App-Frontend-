@@ -6,7 +6,7 @@ import { jsPDF } from "jspdf";
 import axios from "axios";
 import { BASE_URL } from "../../../Utils";
 import UserDashboardLayout from "../../Components/UserDashboardLayout/UserDashboardLayout";
-import AdminLayout from "../../Components/AdminLayout/adminLayout";
+import AdminLayout from "../../Components/AdminLayout/AdminLayout";
 
 const VeiwAppointSlips = () => {
 
